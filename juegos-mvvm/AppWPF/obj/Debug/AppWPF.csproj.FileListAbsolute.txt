@@ -1,0 +1,95 @@
+C:\Users\User\Documents\AppWPF\AppWPF\bin\Debug\AppWPF.exe.config
+C:\Users\User\Documents\AppWPF\AppWPF\obj\Debug\AppWPF.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\AppWPF\AppWPF\obj\Debug\MainWindow.g.cs
+C:\Users\User\Documents\AppWPF\AppWPF\obj\Debug\App.g.cs
+C:\Users\User\Documents\AppWPF\AppWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Documents\AppWPF\AppWPF\obj\Debug\AppWPF_MarkupCompile.cache
+C:\Users\User\Documents\AppWPF\AppWPF\obj\Debug\AppWPF_MarkupCompile.lref
+C:\Users\User\Documents\AppWPF\AppWPF\bin\Debug\AppWPF.exe
+C:\Users\User\Documents\AppWPF\AppWPF\bin\Debug\AppWPF.pdb
+C:\Users\User\Documents\AppWPF\AppWPF\obj\Debug\MainWindow.baml
+C:\Users\User\Documents\AppWPF\AppWPF\obj\Debug\AppWPF.g.resources
+C:\Users\User\Documents\AppWPF\AppWPF\obj\Debug\AppWPF.Properties.Resources.resources
+C:\Users\User\Documents\AppWPF\AppWPF\obj\Debug\AppWPF.csproj.GenerateResource.Cache
+C:\Users\User\Documents\AppWPF\AppWPF\obj\Debug\AppWPF.exe
+C:\Users\User\Documents\AppWPF\AppWPF\obj\Debug\AppWPF.pdb
+D:\Downloads\mvvm-crud-master\mvvm-crud-master\AppWPF\bin\Debug\AppWPF.exe.config
+D:\Downloads\mvvm-crud-master\mvvm-crud-master\AppWPF\bin\Debug\AppWPF.exe
+D:\Downloads\mvvm-crud-master\mvvm-crud-master\AppWPF\bin\Debug\AppWPF.pdb
+D:\Downloads\mvvm-crud-master\mvvm-crud-master\AppWPF\obj\Debug\AppWPF.csprojAssemblyReference.cache
+D:\Downloads\mvvm-crud-master\mvvm-crud-master\AppWPF\obj\Debug\MainWindow.g.cs
+D:\Downloads\mvvm-crud-master\mvvm-crud-master\AppWPF\obj\Debug\App.g.cs
+D:\Downloads\mvvm-crud-master\mvvm-crud-master\AppWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Downloads\mvvm-crud-master\mvvm-crud-master\AppWPF\obj\Debug\AppWPF_MarkupCompile.cache
+D:\Downloads\mvvm-crud-master\mvvm-crud-master\AppWPF\obj\Debug\AppWPF_MarkupCompile.lref
+D:\Downloads\mvvm-crud-master\mvvm-crud-master\AppWPF\obj\Debug\MainWindow.baml
+D:\Downloads\mvvm-crud-master\mvvm-crud-master\AppWPF\obj\Debug\AppWPF.g.resources
+D:\Downloads\mvvm-crud-master\mvvm-crud-master\AppWPF\obj\Debug\AppWPF.Properties.Resources.resources
+D:\Downloads\mvvm-crud-master\mvvm-crud-master\AppWPF\obj\Debug\AppWPF.csproj.GenerateResource.cache
+D:\Downloads\mvvm-crud-master\mvvm-crud-master\AppWPF\obj\Debug\AppWPF.csproj.CoreCompileInputs.cache
+D:\Downloads\mvvm-crud-master\mvvm-crud-master\AppWPF\obj\Debug\AppWPF.exe
+D:\Downloads\mvvm-crud-master\mvvm-crud-master\AppWPF\obj\Debug\AppWPF.pdb
+D:\Documents\Terciario\Ing. de software\mvvm-crud-master\AppWPF\obj\Debug\MainWindow.g.cs
+D:\Documents\Terciario\Ing. de software\mvvm-crud-master\AppWPF\obj\Debug\App.g.cs
+D:\Documents\Terciario\Ing. de software\mvvm-crud-master\AppWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Documents\Terciario\Ing. de software\mvvm-crud-master\AppWPF\obj\Debug\AppWPF_MarkupCompile.cache
+D:\Documents\Terciario\Ing. de software\mvvm-crud-master\AppWPF\obj\Debug\AppWPF_MarkupCompile.lref
+D:\Documents\Terciario\Ing. de software\mvvm-crud-master\AppWPF\bin\Debug\AppWPF.exe.config
+D:\Documents\Terciario\Ing. de software\mvvm-crud-master\AppWPF\bin\Debug\AppWPF.exe
+D:\Documents\Terciario\Ing. de software\mvvm-crud-master\AppWPF\bin\Debug\AppWPF.pdb
+D:\Documents\Terciario\Ing. de software\mvvm-crud-master\AppWPF\obj\Debug\AppWPF.csprojAssemblyReference.cache
+D:\Documents\Terciario\Ing. de software\mvvm-crud-master\AppWPF\obj\Debug\MainWindow.baml
+D:\Documents\Terciario\Ing. de software\mvvm-crud-master\AppWPF\obj\Debug\AppWPF.g.resources
+D:\Documents\Terciario\Ing. de software\mvvm-crud-master\AppWPF\obj\Debug\AppWPF.Properties.Resources.resources
+D:\Documents\Terciario\Ing. de software\mvvm-crud-master\AppWPF\obj\Debug\AppWPF.csproj.GenerateResource.cache
+D:\Documents\Terciario\Ing. de software\mvvm-crud-master\AppWPF\obj\Debug\AppWPF.csproj.CoreCompileInputs.cache
+D:\Documents\Terciario\Ing. de software\mvvm-crud-master\AppWPF\obj\Debug\AppWPF.exe
+D:\Documents\Terciario\Ing. de software\mvvm-crud-master\AppWPF\obj\Debug\AppWPF.pdb
+C:\Users\Admin\Desktop\juegos-mvvm\AppWPF\bin\Debug\AppWPF.exe.config
+C:\Users\Admin\Desktop\juegos-mvvm\AppWPF\bin\Debug\AppWPF.exe
+C:\Users\Admin\Desktop\juegos-mvvm\AppWPF\bin\Debug\AppWPF.pdb
+C:\Users\Admin\Desktop\juegos-mvvm\AppWPF\obj\Debug\AppWPF.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\juegos-mvvm\AppWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\juegos-mvvm\AppWPF\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\juegos-mvvm\AppWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Admin\Desktop\juegos-mvvm\AppWPF\obj\Debug\AppWPF_MarkupCompile.cache
+C:\Users\Admin\Desktop\juegos-mvvm\AppWPF\obj\Debug\AppWPF_MarkupCompile.lref
+C:\Users\Admin\Desktop\juegos-mvvm\AppWPF\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\juegos-mvvm\AppWPF\obj\Debug\AppWPF.g.resources
+C:\Users\Admin\Desktop\juegos-mvvm\AppWPF\obj\Debug\AppWPF.Properties.Resources.resources
+C:\Users\Admin\Desktop\juegos-mvvm\AppWPF\obj\Debug\AppWPF.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\juegos-mvvm\AppWPF\obj\Debug\AppWPF.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\juegos-mvvm\AppWPF\obj\Debug\AppWPF.exe
+C:\Users\Admin\Desktop\juegos-mvvm\AppWPF\obj\Debug\AppWPF.pdb
+C:\Users\julia\Documents\juegos-mvvm\AppWPF\bin\Debug\AppWPF.exe.config
+C:\Users\julia\Documents\juegos-mvvm\AppWPF\bin\Debug\AppWPF.exe
+C:\Users\julia\Documents\juegos-mvvm\AppWPF\bin\Debug\AppWPF.pdb
+C:\Users\julia\Documents\juegos-mvvm\AppWPF\obj\Debug\AppWPF.csprojAssemblyReference.cache
+C:\Users\julia\Documents\juegos-mvvm\AppWPF\obj\Debug\MainWindow.g.cs
+C:\Users\julia\Documents\juegos-mvvm\AppWPF\obj\Debug\App.g.cs
+C:\Users\julia\Documents\juegos-mvvm\AppWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\julia\Documents\juegos-mvvm\AppWPF\obj\Debug\AppWPF_MarkupCompile.cache
+C:\Users\julia\Documents\juegos-mvvm\AppWPF\obj\Debug\AppWPF_MarkupCompile.lref
+C:\Users\julia\Documents\juegos-mvvm\AppWPF\obj\Debug\MainWindow.baml
+C:\Users\julia\Documents\juegos-mvvm\AppWPF\obj\Debug\AppWPF.g.resources
+C:\Users\julia\Documents\juegos-mvvm\AppWPF\obj\Debug\AppWPF.Properties.Resources.resources
+C:\Users\julia\Documents\juegos-mvvm\AppWPF\obj\Debug\AppWPF.csproj.GenerateResource.cache
+C:\Users\julia\Documents\juegos-mvvm\AppWPF\obj\Debug\AppWPF.csproj.CoreCompileInputs.cache
+C:\Users\julia\Documents\juegos-mvvm\AppWPF\obj\Debug\AppWPF.exe
+C:\Users\julia\Documents\juegos-mvvm\AppWPF\obj\Debug\AppWPF.pdb
+C:\Users\julia\Desktop\juegos-mvvm\AppWPF\bin\Debug\AppWPF.exe.config
+C:\Users\julia\Desktop\juegos-mvvm\AppWPF\bin\Debug\AppWPF.exe
+C:\Users\julia\Desktop\juegos-mvvm\AppWPF\bin\Debug\AppWPF.pdb
+C:\Users\julia\Desktop\juegos-mvvm\AppWPF\obj\Debug\AppWPF.csprojAssemblyReference.cache
+C:\Users\julia\Desktop\juegos-mvvm\AppWPF\obj\Debug\MainWindow.g.cs
+C:\Users\julia\Desktop\juegos-mvvm\AppWPF\obj\Debug\App.g.cs
+C:\Users\julia\Desktop\juegos-mvvm\AppWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\julia\Desktop\juegos-mvvm\AppWPF\obj\Debug\AppWPF_MarkupCompile.cache
+C:\Users\julia\Desktop\juegos-mvvm\AppWPF\obj\Debug\AppWPF_MarkupCompile.lref
+C:\Users\julia\Desktop\juegos-mvvm\AppWPF\obj\Debug\MainWindow.baml
+C:\Users\julia\Desktop\juegos-mvvm\AppWPF\obj\Debug\AppWPF.g.resources
+C:\Users\julia\Desktop\juegos-mvvm\AppWPF\obj\Debug\AppWPF.Properties.Resources.resources
+C:\Users\julia\Desktop\juegos-mvvm\AppWPF\obj\Debug\AppWPF.csproj.GenerateResource.cache
+C:\Users\julia\Desktop\juegos-mvvm\AppWPF\obj\Debug\AppWPF.csproj.CoreCompileInputs.cache
+C:\Users\julia\Desktop\juegos-mvvm\AppWPF\obj\Debug\AppWPF.exe
+C:\Users\julia\Desktop\juegos-mvvm\AppWPF\obj\Debug\AppWPF.pdb
